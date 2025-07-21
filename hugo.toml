@@ -1,5 +1,6 @@
 baseURL = 'https://seg-financial.github.io/'
 canonifyURLs = true
+relativeURLs = false
 languageCode = 'en-us'
 title = 'SEG Financial'
 theme = 'PaperMod'
