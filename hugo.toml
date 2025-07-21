@@ -1,0 +1,49 @@
+baseURL = 'https://seg-financial.github.io/'
+canonifyURLs = true
+languageCode = 'en-us'
+title = 'SEG Financial'
+theme = 'PaperMod'
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+copyright = "SEG Financial"
+[pagination]
+pagerSize = 10
+
+[params]
+  description = "Financial blog with fresh content on investing, trading, forex, and more."
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+  env = "production"
+
+  adsensePublisherID = "ca-pub-8385509578521419"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "terms"
+    name = "Terms of Use"
+    url = "/terms/"
+    weight = 11
+
+  [[menu.main]]
+    identifier = "disclaimer"
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 12
