@@ -19,7 +19,7 @@ pagerSize = 10
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
-  env = "production"
+  env = "development"
 
   adsensePublisherID = "ca-pub-8385509578521419"
 
