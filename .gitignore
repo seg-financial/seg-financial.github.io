@@ -1,0 +1,16 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo locks
+*.lock
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Backups
+/backup_*/
