@@ -20,6 +20,9 @@ pagerSize = 10
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
   env = "development"
+  
+  [params.assets]
+disableFingerprinting = true
 
   adsensePublisherID = "ca-pub-8385509578521419"
 
