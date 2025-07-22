@@ -65,9 +65,7 @@
 
 {{- /* bundle all required css */}}
 {{- /* Add extended css after theme style */ -}}
-{{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
-
-{{- /* wyłączamy fingerprinting i integrity */ -}}
+{{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css" | resources.Minify }}
 <link href="{{ $stylesheet.RelPermalink }}" rel="stylesheet" as="style">
 
 {{- /* Search */}}
