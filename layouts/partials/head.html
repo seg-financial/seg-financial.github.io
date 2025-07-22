@@ -67,12 +67,7 @@
 {{- /* Add extended css after theme style */ -}}
 {{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
 
-{{- if not site.Params.assets.disableFingerprinting }}
-{{- $stylesheet := $stylesheet | fingerprint }}
 <link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}">
-{{- else }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
-{{- end }}
 
 {{- /* Search */}}
 {{- if (eq .Layout `search`) -}}
@@ -85,7 +80,7 @@
 <script defer src="{{ $search.RelPermalink }}"></script>
 {{- else }}
 {{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" }}
-<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
+<script defer src="{{ $search.RelPermalink }}"></script>
 {{- end }}
 {{- end -}}
 
