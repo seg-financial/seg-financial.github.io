@@ -1,11 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>SEG Financial</title><link>https://seg-financial.github.io/</link><description>Recent content on SEG Financial</description><generator>Hugo -- 0.148.1</generator><language>en-us</language><copyright>SEG Financial</copyright><lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://seg-financial.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Disclaimer</title><link>https://seg-financial.github.io/disclaimer/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://seg-financial.github.io/disclaimer/</guid><description>&lt;p>The content published on this website reflects my personal opinions, thoughts, and experiences. It is intended for general informational and entertainment purposes only.&lt;/p>
-&lt;p>Nothing on this site should be interpreted as professional advice, guidance, or instruction - particularly in relation to automotive safety, maintenance, modifications, or legal matters. I am not a certified mechanic, technician, lawyer, or expert in any of the topics discussed. Always do your own research from qualified sources.&lt;/p></description></item><item><title>Privacy policy</title><link>https://seg-financial.github.io/privacy/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://seg-financial.github.io/privacy/</guid><description>&lt;p>This website is a personal blog intended for informational and entertainment purposes only.&lt;/p>
-&lt;h2 id="1-no-data-collection-by-site-owner">1. No Data Collection by Site Owner&lt;/h2>
-&lt;p>I do not collect, store, or process any personal data from visitors.&lt;/p>
-&lt;p>This website does not include comment sections, contact forms, account registration, or newsletter subscriptions.&lt;/p>
-&lt;p>I do not track, identify, or analyze users in any way.&lt;/p>
-&lt;p>You may freely browse this site without providing any personal information.&lt;/p>
-&lt;h2 id="2-third-party-services-and-cookies">2. Third-Party Services and Cookies&lt;/h2>
-&lt;p>Although I do not collect data, this website uses third-party services that may collect non-personally identifiable information automatically, including:&lt;/p></description></item><item><title>Terms of use</title><link>https://seg-financial.github.io/terms/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>https://seg-financial.github.io/terms/</guid><description>&lt;p>Welcome to this website. By accessing or using this site, you agree to the following Terms of Use. If you do not agree with any part of these terms, please do not use this website.&lt;/p>
-&lt;h2 id="1-personal-responsibility">1. Personal Responsibility&lt;/h2>
-&lt;p>All content on this site is for general informational and entertainment purposes only. It represents my personal opinions and experiences and should not be taken as professional advice. You are solely responsible for how you interpret or use any information found on this website.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SEG Financial</title>
+    <link>https://seg-financial.github.io/</link>
+    <description>Recent content on SEG Financial</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <copyright>SEG Financial</copyright>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://seg-financial.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>https://seg-financial.github.io/disclaimer/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://seg-financial.github.io/disclaimer/</guid>
+      <description>&lt;p&gt;The content published on this website reflects my personal opinions, thoughts, and experiences. It is intended for general informational and entertainment purposes only.&lt;/p&gt;
+&lt;p&gt;Nothing on this site should be interpreted as professional advice, guidance, or instruction - particularly in relation to automotive safety, maintenance, modifications, or legal matters. I am not a certified mechanic, technician, lawyer, or expert in any of the topics discussed. Always do your own research from qualified sources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>https://seg-financial.github.io/privacy/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://seg-financial.github.io/privacy/</guid>
+      <description>&lt;p&gt;This website is a personal blog intended for informational and entertainment purposes only.&lt;/p&gt;
+&lt;h2 id=&#34;1-no-data-collection-by-site-owner&#34;&gt;1. No Data Collection by Site Owner&lt;/h2&gt;
+&lt;p&gt;I do not collect, store, or process any personal data from visitors.&lt;/p&gt;
+&lt;p&gt;This website does not include comment sections, contact forms, account registration, or newsletter subscriptions.&lt;/p&gt;
+&lt;p&gt;I do not track, identify, or analyze users in any way.&lt;/p&gt;
+&lt;p&gt;You may freely browse this site without providing any personal information.&lt;/p&gt;
+&lt;h2 id=&#34;2-third-party-services-and-cookies&#34;&gt;2. Third-Party Services and Cookies&lt;/h2&gt;
+&lt;p&gt;Although I do not collect data, this website uses third-party services that may collect non-personally identifiable information automatically, including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms of use</title>
+      <link>https://seg-financial.github.io/terms/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://seg-financial.github.io/terms/</guid>
+      <description>&lt;p&gt;Welcome to this website. By accessing or using this site, you agree to the following Terms of Use. If you do not agree with any part of these terms, please do not use this website.&lt;/p&gt;
+&lt;h2 id=&#34;1-personal-responsibility&#34;&gt;1. Personal Responsibility&lt;/h2&gt;
+&lt;p&gt;All content on this site is for general informational and entertainment purposes only. It represents my personal opinions and experiences and should not be taken as professional advice. You are solely responsible for how you interpret or use any information found on this website.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
