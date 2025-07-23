@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal Finance on SEG Financial</title>
-    <link>http://localhost:1313/categories/personal-finance/</link>
+    <link>https://seg-financial.github.io/categories/personal-finance/</link>
     <description>Recent content in Personal Finance on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 17:56:25 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seg-financial.github.io/categories/personal-finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7 Surprising Expenses That Are Quietly Draining Your Budget</title>
-      <link>http://localhost:1313/posts/2025-07-22-7-surprising-expenses/</link>
+      <link>https://seg-financial.github.io/posts/2025-07-22-7-surprising-expenses/</link>
       <pubDate>Tue, 22 Jul 2025 17:56:25 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-07-22-7-surprising-expenses/</guid>
+      <guid>https://seg-financial.github.io/posts/2025-07-22-7-surprising-expenses/</guid>
       <description>Discover 7 common but overlooked expenses that may be silently sabotaging your savings. Cut costs and take control of your budget.</description>
     </item>
     <item>
       <title>Beginner&#39;s Guide to Financial Planning (2025)</title>
-      <link>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</link>
+      <link>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</guid>
+      <guid>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</guid>
       <description>A simple and clear beginner&amp;#39;s guide to financial planning in 2025. Learn how to set goals, organize your money, and take control of your financial future - no jargon, no pressure.</description>
     </item>
   </channel>

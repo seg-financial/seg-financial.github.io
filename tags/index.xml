@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on SEG Financial</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://seg-financial.github.io/tags/</link>
     <description>Recent content in Tags on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 19:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://seg-financial.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Report</title>
-      <link>http://localhost:1313/tags/credit-report/</link>
+      <link>https://seg-financial.github.io/tags/credit-report/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/credit-report/</guid>
+      <guid>https://seg-financial.github.io/tags/credit-report/</guid>
       <description></description>
     </item>
     <item>
       <title>Credit Score</title>
-      <link>http://localhost:1313/tags/credit-score/</link>
+      <link>https://seg-financial.github.io/tags/credit-score/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/credit-score/</guid>
+      <guid>https://seg-financial.github.io/tags/credit-score/</guid>
       <description></description>
     </item>
     <item>
       <title>Financial Tips</title>
-      <link>http://localhost:1313/tags/financial-tips/</link>
+      <link>https://seg-financial.github.io/tags/financial-tips/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/financial-tips/</guid>
+      <guid>https://seg-financial.github.io/tags/financial-tips/</guid>
       <description></description>
     </item>
     <item>
       <title>Money Myths</title>
-      <link>http://localhost:1313/tags/money-myths/</link>
+      <link>https://seg-financial.github.io/tags/money-myths/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/money-myths/</guid>
+      <guid>https://seg-financial.github.io/tags/money-myths/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal Finance</title>
-      <link>http://localhost:1313/tags/personal-finance/</link>
+      <link>https://seg-financial.github.io/tags/personal-finance/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/personal-finance/</guid>
+      <guid>https://seg-financial.github.io/tags/personal-finance/</guid>
       <description></description>
     </item>
     <item>
       <title>Budgeting</title>
-      <link>http://localhost:1313/tags/budgeting/</link>
+      <link>https://seg-financial.github.io/tags/budgeting/</link>
       <pubDate>Tue, 22 Jul 2025 17:56:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/budgeting/</guid>
+      <guid>https://seg-financial.github.io/tags/budgeting/</guid>
       <description></description>
     </item>
     <item>
       <title>Saving Money</title>
-      <link>http://localhost:1313/tags/saving-money/</link>
+      <link>https://seg-financial.github.io/tags/saving-money/</link>
       <pubDate>Tue, 22 Jul 2025 17:56:25 +0000</pubDate>
-      <guid>http://localhost:1313/tags/saving-money/</guid>
+      <guid>https://seg-financial.github.io/tags/saving-money/</guid>
       <description></description>
     </item>
     <item>
       <title>Low Income</title>
-      <link>http://localhost:1313/tags/low-income/</link>
+      <link>https://seg-financial.github.io/tags/low-income/</link>
       <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/low-income/</guid>
+      <guid>https://seg-financial.github.io/tags/low-income/</guid>
       <description></description>
     </item>
     <item>
       <title>Money Tips</title>
-      <link>http://localhost:1313/tags/money-tips/</link>
+      <link>https://seg-financial.github.io/tags/money-tips/</link>
       <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/money-tips/</guid>
+      <guid>https://seg-financial.github.io/tags/money-tips/</guid>
       <description></description>
     </item>
     <item>
       <title>Budgeting Tools</title>
-      <link>http://localhost:1313/tags/budgeting-tools/</link>
+      <link>https://seg-financial.github.io/tags/budgeting-tools/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/budgeting-tools/</guid>
+      <guid>https://seg-financial.github.io/tags/budgeting-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Financial Planning</title>
-      <link>http://localhost:1313/tags/financial-planning/</link>
+      <link>https://seg-financial.github.io/tags/financial-planning/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/financial-planning/</guid>
+      <guid>https://seg-financial.github.io/tags/financial-planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Money Management</title>
-      <link>http://localhost:1313/tags/money-management/</link>
+      <link>https://seg-financial.github.io/tags/money-management/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/money-management/</guid>
+      <guid>https://seg-financial.github.io/tags/money-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Monthly Budget</title>
-      <link>http://localhost:1313/tags/monthly-budget/</link>
+      <link>https://seg-financial.github.io/tags/monthly-budget/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/monthly-budget/</guid>
+      <guid>https://seg-financial.github.io/tags/monthly-budget/</guid>
       <description></description>
     </item>
     <item>
       <title>Saving</title>
-      <link>http://localhost:1313/tags/saving/</link>
+      <link>https://seg-financial.github.io/tags/saving/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/saving/</guid>
+      <guid>https://seg-financial.github.io/tags/saving/</guid>
       <description></description>
     </item>
     <item>
       <title>Zero-Based Budgeting</title>
-      <link>http://localhost:1313/tags/zero-based-budgeting/</link>
+      <link>https://seg-financial.github.io/tags/zero-based-budgeting/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zero-based-budgeting/</guid>
+      <guid>https://seg-financial.github.io/tags/zero-based-budgeting/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance Apps</title>
-      <link>http://localhost:1313/tags/finance-apps/</link>
+      <link>https://seg-financial.github.io/tags/finance-apps/</link>
       <pubDate>Tue, 22 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/finance-apps/</guid>
+      <guid>https://seg-financial.github.io/tags/finance-apps/</guid>
       <description></description>
     </item>
     <item>
       <title>Money Apps</title>
-      <link>http://localhost:1313/tags/money-apps/</link>
+      <link>https://seg-financial.github.io/tags/money-apps/</link>
       <pubDate>Tue, 22 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/money-apps/</guid>
+      <guid>https://seg-financial.github.io/tags/money-apps/</guid>
       <description></description>
     </item>
   </channel>
