@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SEG Financial</title>
-    <link>https://seg-financial.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 19:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seg-financial.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Score Myths That Could Be Hurting Your Finances (2025)</title>
-      <link>https://seg-financial.github.io/posts/credit-score-myths-2025/</link>
+      <link>http://localhost:1313/posts/credit-score-myths-2025/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/credit-score-myths-2025/</guid>
+      <guid>http://localhost:1313/posts/credit-score-myths-2025/</guid>
       <description>Think you understand your credit score? Think again. These common myths in 2025 may be quietly damaging your financial profile.</description>
     </item>
     <item>
       <title>7 Surprising Expenses That Are Quietly Draining Your Budget</title>
-      <link>https://seg-financial.github.io/posts/2025-07-22-7-surprising-expenses/</link>
+      <link>http://localhost:1313/posts/2025-07-22-7-surprising-expenses/</link>
       <pubDate>Tue, 22 Jul 2025 17:56:25 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/2025-07-22-7-surprising-expenses/</guid>
+      <guid>http://localhost:1313/posts/2025-07-22-7-surprising-expenses/</guid>
       <description>Discover 7 common but overlooked expenses that may be silently sabotaging your savings. Cut costs and take control of your budget.</description>
     </item>
     <item>
       <title>How to Save Money on a Low Income in 2025</title>
-      <link>https://seg-financial.github.io/posts/save-money-on-a-low-income-2025/</link>
+      <link>http://localhost:1313/posts/save-money-on-a-low-income-2025/</link>
       <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/save-money-on-a-low-income-2025/</guid>
+      <guid>http://localhost:1313/posts/save-money-on-a-low-income-2025/</guid>
       <description>Learn practical and realistic ways to save money even on a low income. This 2025 guide offers simple habits and tools to help you stretch every dollar and build financial stability.</description>
     </item>
     <item>
       <title>Beginner&#39;s Guide to Financial Planning (2025)</title>
-      <link>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</link>
+      <link>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</guid>
+      <guid>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</guid>
       <description>A simple and clear beginner&amp;#39;s guide to financial planning in 2025. Learn how to set goals, organize your money, and take control of your financial future - no jargon, no pressure.</description>
     </item>
     <item>
       <title>Best Budgeting Apps in 2025 to Save More and Spend Smarter</title>
-      <link>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</link>
+      <link>http://localhost:1313/posts/best-budgeting-apps-2025/</link>
       <pubDate>Tue, 22 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</guid>
+      <guid>http://localhost:1313/posts/best-budgeting-apps-2025/</guid>
       <description>Discover the best free budgeting apps for 2025 to help you track spending, organize your bills, and save money - ideal for beginners, families, and anyone on a tight budget.</description>
     </item>
     <item>
       <title>Disclaimer</title>
-      <link>https://seg-financial.github.io/disclaimer/</link>
+      <link>http://localhost:1313/disclaimer/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/disclaimer/</guid>
+      <guid>http://localhost:1313/disclaimer/</guid>
       <description>&lt;p&gt;The content published on this website represents my personal opinions, thoughts, and experiences. It is provided for general informational and entertainment purposes only and should not be taken as financial, investment, legal, or tax advice.&lt;/p&gt;
 &lt;p&gt;I am not a licensed financial advisor, accountant, attorney, or investment professional. Nothing on this site constitutes a recommendation to buy, sell, or hold any financial instrument, asset, or product. Do your own research and consult with qualified professionals before making any financial decisions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privacy policy</title>
-      <link>https://seg-financial.github.io/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;p&gt;This website is a personal blog intended for informational and entertainment purposes only.&lt;/p&gt;
 &lt;h2 id=&#34;1-no-data-collection-by-site-owner&#34;&gt;1. No Data Collection by Site Owner&lt;/h2&gt;
 &lt;p&gt;I do not collect, store, or process any personal data from visitors.&lt;/p&gt;
@@ -68,9 +68,9 @@
     </item>
     <item>
       <title>Terms of use</title>
-      <link>https://seg-financial.github.io/terms/</link>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/terms/</guid>
+      <guid>http://localhost:1313/terms/</guid>
       <description>&lt;p&gt;Welcome to this website. By accessing or using this site, you agree to the following Terms of Use. If you do not agree with any part of these terms, please do not use this website.&lt;/p&gt;
 &lt;h2 id=&#34;1-personal-responsibility&#34;&gt;1. Personal Responsibility&lt;/h2&gt;
 &lt;p&gt;All content on this site is for general informational and entertainment purposes only. It represents my personal opinions and experiences and should not be taken as professional advice. You are solely responsible for how you interpret or use any information found on this website.&lt;/p&gt;</description>

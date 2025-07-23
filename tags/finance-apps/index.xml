@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Finance Apps on SEG Financial</title>
-    <link>https://seg-financial.github.io/tags/finance-apps/</link>
+    <link>http://localhost:1313/tags/finance-apps/</link>
     <description>Recent content in Finance Apps on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 10:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seg-financial.github.io/tags/finance-apps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/finance-apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best Budgeting Apps in 2025 to Save More and Spend Smarter</title>
-      <link>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</link>
+      <link>http://localhost:1313/posts/best-budgeting-apps-2025/</link>
       <pubDate>Tue, 22 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</guid>
+      <guid>http://localhost:1313/posts/best-budgeting-apps-2025/</guid>
       <description>Discover the best free budgeting apps for 2025 to help you track spending, organize your bills, and save money - ideal for beginners, families, and anyone on a tight budget.</description>
     </item>
   </channel>

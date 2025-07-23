@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Money Myths on SEG Financial</title>
-    <link>https://seg-financial.github.io/tags/money-myths/</link>
+    <link>http://localhost:1313/tags/money-myths/</link>
     <description>Recent content in Money Myths on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 19:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seg-financial.github.io/tags/money-myths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/money-myths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Score Myths That Could Be Hurting Your Finances (2025)</title>
-      <link>https://seg-financial.github.io/posts/credit-score-myths-2025/</link>
+      <link>http://localhost:1313/posts/credit-score-myths-2025/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/credit-score-myths-2025/</guid>
+      <guid>http://localhost:1313/posts/credit-score-myths-2025/</guid>
       <description>Think you understand your credit score? Think again. These common myths in 2025 may be quietly damaging your financial profile.</description>
     </item>
   </channel>

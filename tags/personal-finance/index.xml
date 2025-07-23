@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal Finance on SEG Financial</title>
-    <link>https://seg-financial.github.io/tags/personal-finance/</link>
+    <link>http://localhost:1313/tags/personal-finance/</link>
     <description>Recent content in Personal Finance on SEG Financial</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <copyright>SEG Financial</copyright>
     <lastBuildDate>Tue, 22 Jul 2025 19:00:00 +0000</lastBuildDate>
-    <atom:link href="https://seg-financial.github.io/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/personal-finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Score Myths That Could Be Hurting Your Finances (2025)</title>
-      <link>https://seg-financial.github.io/posts/credit-score-myths-2025/</link>
+      <link>http://localhost:1313/posts/credit-score-myths-2025/</link>
       <pubDate>Tue, 22 Jul 2025 19:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/credit-score-myths-2025/</guid>
+      <guid>http://localhost:1313/posts/credit-score-myths-2025/</guid>
       <description>Think you understand your credit score? Think again. These common myths in 2025 may be quietly damaging your financial profile.</description>
     </item>
     <item>
       <title>How to Save Money on a Low Income in 2025</title>
-      <link>https://seg-financial.github.io/posts/save-money-on-a-low-income-2025/</link>
+      <link>http://localhost:1313/posts/save-money-on-a-low-income-2025/</link>
       <pubDate>Tue, 22 Jul 2025 17:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/save-money-on-a-low-income-2025/</guid>
+      <guid>http://localhost:1313/posts/save-money-on-a-low-income-2025/</guid>
       <description>Learn practical and realistic ways to save money even on a low income. This 2025 guide offers simple habits and tools to help you stretch every dollar and build financial stability.</description>
     </item>
     <item>
       <title>Beginner&#39;s Guide to Financial Planning (2025)</title>
-      <link>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</link>
+      <link>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</link>
       <pubDate>Tue, 22 Jul 2025 15:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/beginners-guide-financial-planning-2025/</guid>
+      <guid>http://localhost:1313/posts/beginners-guide-financial-planning-2025/</guid>
       <description>A simple and clear beginner&amp;#39;s guide to financial planning in 2025. Learn how to set goals, organize your money, and take control of your financial future - no jargon, no pressure.</description>
     </item>
     <item>
       <title>Best Budgeting Apps in 2025 to Save More and Spend Smarter</title>
-      <link>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</link>
+      <link>http://localhost:1313/posts/best-budgeting-apps-2025/</link>
       <pubDate>Tue, 22 Jul 2025 10:00:00 +0000</pubDate>
-      <guid>https://seg-financial.github.io/posts/best-budgeting-apps-2025/</guid>
+      <guid>http://localhost:1313/posts/best-budgeting-apps-2025/</guid>
       <description>Discover the best free budgeting apps for 2025 to help you track spending, organize your bills, and save money - ideal for beginners, families, and anyone on a tight budget.</description>
     </item>
   </channel>
